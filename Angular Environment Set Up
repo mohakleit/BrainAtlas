@@ -1,0 +1,19 @@
+Angular Environment Set Up
+
+
+1. Download Node.js (download the recommended version)
+https://nodejs.org/en/
+
+Note: will be installed at /usr/local/bin/node and /usr/local/bin/npm
+
+2. Run
+	npm install -g @angular/cli
+
+3. To create a new project
+	ng new *name of project*
+
+4. Enter directory of project
+
+5. Run ng serve
+
+6. Download ATOM text editor
