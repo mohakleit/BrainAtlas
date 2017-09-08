@@ -1,0 +1,24 @@
+Commit Format Specifications
+
+This document explains the format of commits descriptions.
+
+1. Documentation (text files, markdown files, etc)
+Format
+"D: *description*"
+
+2. Front-End Code
+"FE: *description*"
+
+3. Back-End Code
+"BE: *description*"
+
+4. Front-End and Back-End
+"FBE: *description*"
+
+5. Bug Fix
+	a) Front-End
+		"BUG-FE: *description*"
+	b) Back-End
+		"BUG-BE: *description*"
+	c) Both
+		"BUG-FBE: *description*"
