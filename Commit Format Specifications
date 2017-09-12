@@ -22,3 +22,6 @@ Format
 		"BUG-BE: *description*"
 	c) Both
 		"BUG-FBE: *description*"
+
+6. Environment commit
+“ENV: *description*”
